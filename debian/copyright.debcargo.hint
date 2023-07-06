@@ -4,13 +4,25 @@ Upstream-Contact: Nikolai Vazquez
 Source: https://github.com/nvzqz/static-assertions-rs
 
 Files: *
-Copyright: 2017-2019 Nikolai Vazquez
+Copyright: FIXME (overlay) UNKNOWN-YEARS Nikolai Vazquez
 License: MIT or Apache-2.0
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
+
+Files: ./LICENSE-MIT
+Copyright: 2017 Nikolai Vazquez
+License: UNKNOWN-LICENSE; FIXME (overlay)
+Comment:
+ FIXME (overlay): These notices are extracted from files. Please review them
+ before uploading to the archive.
 
 Files: debian/*
 Copyright:
- 2019 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
- 2019 kpcyrd <git@rxv.cc>
+ 2019-2020 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
+ 2019-2020 kpcyrd <git@rxv.cc>
 License: MIT or Apache-2.0
 
 License: Apache-2.0
